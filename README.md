@@ -16,5 +16,5 @@
 
 * Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.
 >  If you have any questions, contact me in Discord: **vv#0999**
->  #### Original Repositor :
+>  #### Original Repositor:
 >  https://github.com/c9ffin/rdpwin
